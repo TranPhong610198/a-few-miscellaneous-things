@@ -1,0 +1,3 @@
+D:/DATA of Clion/Max of Four/cmake-build-debug/CMakeFiles/Max_of_Four.dir
+D:/DATA of Clion/Max of Four/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DATA of Clion/Max of Four/cmake-build-debug/CMakeFiles/rebuild_cache.dir
